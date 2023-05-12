@@ -1,2 +1,2 @@
-# computer-vision-projects
-A collection of computer vision projects I completed in uni
+# Keras Image Classifier
+Completed as an assignment for Computer Vision
